@@ -1,7 +1,6 @@
-# ECH-Tunnel-Go
-
 
 # ECH-Tunnel-Go  
+
 单二进制、全平台、纯 Go 实现的多协议加密正向代理
 
 支持 ECH（Encrypted Client Hello） + TLS 1.3 + WebSocket + 多通道竞速 + 完整 SOCKS5/HTTP 代理 + UDP Associate + TCP/UDP 正向转发  
